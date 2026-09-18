@@ -43,5 +43,9 @@ public class CountDigits {
 
 
 
+<img width="733" height="328" alt="image" src="https://github.com/user-attachments/assets/e735b9e4-956c-4f08-bda1-79b4ebbae8e0" />
+
+
+
 ## Result:
 Thus, the Java program to to count the number of digits in an integer is implemented successfully.
